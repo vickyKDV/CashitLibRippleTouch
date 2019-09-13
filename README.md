@@ -8,5 +8,5 @@ maven {
     }
 
 dependencies {
-   implementation com.github.vickyKDV:CashitLibRippleTouch::0.0.1'
+   implementation 'com.github.vickyKDV:CashitLibRippleTouch::0.0.1'
    }
